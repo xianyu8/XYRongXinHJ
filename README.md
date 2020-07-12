@@ -1,2 +1,3 @@
 # XYRongXinHJ
-融信和全球共用HJ的library v1.0.1  
+rongxin library v1.0.1  
+v1.0.2  
